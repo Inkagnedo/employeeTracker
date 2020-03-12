@@ -1,0 +1,27 @@
+{
+  "name": "employeetracker",
+  "version": "1.0.0",
+  "description": "The ultimate tracker",
+  "main": "index.js",
+  "dependencies": {
+    "ascii-art": "^2.5.0",
+    "console.table": "^0.10.0",
+    "init": "^0.1.2",
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Inkagnedo/employeeTracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Inkagnedo/employeeTracker/issues"
+  },
+  "homepage": "https://github.com/Inkagnedo/employeeTracker#readme"
+}
