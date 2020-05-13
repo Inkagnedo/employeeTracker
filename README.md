@@ -1,2 +1,0 @@
-# employeeTracker
-The ultimate tracker
