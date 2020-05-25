@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Inkagnedo/employeeTracker#readme",
   "dependencies": {
+    "ascii-art": "^2.5.0",
     "console.table": "^0.10.0",
     "inquirer": "^7.1.0",
     "mysql": "^2.18.1"
